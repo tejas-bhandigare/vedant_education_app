@@ -1,16 +1,24 @@
-# vedant_education_app
+🎓 Vedant Education App
 
-A new Flutter project.
+Vedant Education is a Flutter-based eCommerce application designed for schools and educational institutions to manage and order academic products like Books, School Bags, Uniforms, and Certificates.
 
-## Getting Started
+The app provides a smooth shopping experience with category browsing, product listing, product details, cart management, and persistent cart storage.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+📚 Category-based product browsing (Books, Bags, Uniforms, Certificates)
+📦 Sub-category filtering
+🛒 Add to Cart with quantity selector
+➕ Increase / Decrease cart quantity
+💾 Persistent Cart using SharedPreferences
+📊 Dynamic total price calculation
+🔄 State management using Provider
+🎨 Clean and scalable architecture
+📱 Bottom navigation (Home, Category, Account, Cart)
+🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter
+Dart
+Provider (State Management)
+SharedPreferences (Local Storage)
+Material UI Components
