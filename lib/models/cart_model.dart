@@ -9,6 +9,8 @@ class CartItem {
     this.quantity = 1,
   });
 
+
+
   /// ================= TO MAP =================
   Map<String, dynamic> toMap() {
     return {
