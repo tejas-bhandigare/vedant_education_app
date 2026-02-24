@@ -4,7 +4,7 @@ Vedant Education is a Flutter-based eCommerce application designed for schools a
 
 The app provides a smooth shopping experience with category browsing, product listing, product details, cart management, and persistent cart storage.
 
-🚀 Features
+🚀 Features -
 
 📚 Category-based product browsing (Books, Bags, Uniforms, Certificates)
 📦 Sub-category filtering
@@ -15,7 +15,9 @@ The app provides a smooth shopping experience with category browsing, product li
 🔄 State management using Provider
 🎨 Clean and scalable architecture
 📱 Bottom navigation (Home, Category, Account, Cart)
-🛠 Tech Stack
+
+
+🛠 Tech Stack -
 
 Flutter
 Dart
